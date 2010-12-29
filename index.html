@@ -3,15 +3,6 @@ layout: default
 title: Ben Marini
 ---
 
-{% for post in site.posts %}
-<dl class="post">
-  <dt>{{ post.title }}</dt>
-  <dd class="date">{{ post.date | date_to_string }}</dd>
-  <dd class="content">
-    {{ post.content }}
-  </dd>
-</dl>
-  {% if post != site.posts.last %}
-<h1 class="separator">&hellip;</h1>
-  {% endif %}
-{% endfor %}
+<h1>{{ site.posts.first.title }}</h1>
+
+{{ site.posts.first.content }}

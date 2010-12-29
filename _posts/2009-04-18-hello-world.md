@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: The case for case statements
 ---
 
