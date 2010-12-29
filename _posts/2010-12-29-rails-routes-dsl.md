@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Boiled down version of rails 3 routes DSL implementation
+title: Rails 3 routing DSL implementation
 ---
 
 I picked out the bare essentials from the rails 3 routing code to expose how
