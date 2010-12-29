@@ -40,4 +40,4 @@ Examples of this type of DSL:
 
 ### Implementation
 
-<script src="https://gist.github.com/757889.js"> </script>
+<script src="https://gist.github.com/757889.js?file=bundler-style-dsl.rb"></script>
