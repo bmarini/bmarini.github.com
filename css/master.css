@@ -55,6 +55,14 @@ dd.date {
   font-size: 12px;
 }
 
+pre {
+  line-height: 1.2em;
+}
+
+.gist, code {
+  font-size: 12px;
+}
+
 .clearfix:after {
   visibility: hidden;
   display: block;
