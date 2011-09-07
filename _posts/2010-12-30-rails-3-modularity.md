@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Rails 3 modularity
-published: false
 ---
 
 I was reading through `ActionDispatch::Routing::Mapper` to understand how the
